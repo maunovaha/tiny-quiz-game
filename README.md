@@ -1,4 +1,4 @@
-# tiny-quiz-game
+# Tiny quiz game
 
 A tiny [javascript game](http://jsfiddle.net/maunovaha/pxzdg53a/1/) which source code fits into a single twitter tweet.
 
